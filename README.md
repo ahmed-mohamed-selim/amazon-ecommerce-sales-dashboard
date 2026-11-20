@@ -1,6 +1,6 @@
 # Amazon India E-Commerce Sales Dashboard (Excel)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 An interactive, dark-themed sales dashboard built in Excel on top of a 1,000-order Amazon India dataset (Jan–Dec 2026). It uses Pivot Tables for the analysis layer and formula-driven KPI cards and charts for the dashboard layer, with dropdown filters that update everything at once.
 
